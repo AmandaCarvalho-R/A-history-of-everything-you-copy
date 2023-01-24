@@ -1,4 +1,13 @@
+:root {
+    --cinza-escuro: #4C545C;
+}
+
 body {
     background-image: url("../img/Bitmap\ 2.png");
     background-repeat: no-repeat;
+}
+
+.container__caixa {
+    text-align: center;
+    margin-top: 100px;
 }
