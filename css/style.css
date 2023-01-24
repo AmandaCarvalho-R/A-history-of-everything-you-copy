@@ -1,5 +1,8 @@
 :root {
     --cinza-escuro: #4C545C;
+    --cinza-claro: #9EABB2;
+    --verde-claro: #26BBA4;
+    --azul: #6174FF;
 }
 
 body {
@@ -16,4 +19,19 @@ body {
     font-weight: 700;
     font-size: 46px;
     color: var(--cinza-escuro);
+}
+
+.container__subtitulo {
+    font-weight: 200;
+    font-size: 20px;
+    margin-top: 10px;
+    color: var(--cinza-claro);
+    
+}
+
+.container__botao1 {
+    background-color: var(--verde-claro);
+    margin-bottom: 2em;
+    border-radius: 10px;
+    text-decoration: none;
 }
