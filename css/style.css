@@ -3,6 +3,7 @@
     --cinza-claro: #9EABB2;
     --verde-claro: #26BBA4;
     --azul: #6174FF;
+    --branco: #FFFFFF;
 }
 
 body {
@@ -24,14 +25,33 @@ body {
 .container__subtitulo {
     font-weight: 200;
     font-size: 20px;
-    margin-top: 10px;
+    
     color: var(--cinza-claro);
     
 }
 
+.formatacao {
+    margin: 0px 0 50px;
+}
+
 .container__botao1 {
     background-color: var(--verde-claro);
-    margin-bottom: 2em;
-    border-radius: 10px;
+    margin-bottom: 1em;
+    border-radius: 30px;
     text-decoration: none;
+    border: 2px solid var(--verde-claro);
+    color: var(--branco);
+    padding: 15px 25px;
+    
 }
+
+.container__botao2 {
+    background-color: var(--azul);
+    margin-bottom: 1em;
+    border-radius: 30px;
+    text-decoration: none;
+    border: 2px solid var(--azul);
+    color: var(--branco);
+    padding: 15px 25px;
+}
+
