@@ -11,3 +11,9 @@ body {
     text-align: center;
     margin-top: 100px;
 }
+
+.container__titulo {
+    font-weight: 700;
+    font-size: 46px;
+    color: var(--cinza-escuro);
+}
