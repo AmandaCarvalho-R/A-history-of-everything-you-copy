@@ -24,14 +24,13 @@ body {
 
 .container__subtitulo {
     font-weight: 200;
-    font-size: 20px;
-    
+    font-size: 20px;    
     color: var(--cinza-claro);
     
 }
 
 .formatacao {
-    margin: 0px 0 50px;
+    margin: 0px 0 70px;
 }
 
 .container__botao1 {
@@ -53,5 +52,34 @@ body {
     border: 2px solid var(--azul);
     color: var(--branco);
     padding: 15px 25px;
+    margin: 0 0 30px;
 }
+
+.tamanho {
+    font-size: 36px;
+    
+}
+
+.container__secundario {
+    display: grid;
+    grid-template-columns: 70% 30%;
+    
+}
+
+.titulo_tela2 {
+    font-size: 24px;
+    color: var(--cinza-escuro);
+    
+}
+
+.descricao__tela2 {
+    font-size: 16px;
+    font-weight: 200;
+    color: var(--cinza-claro);
+}
+
+
+
+
+
 
