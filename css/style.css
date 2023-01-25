@@ -57,6 +57,7 @@ body {
 
 .tamanho {
     font-size: 36px;
+    text-align: center;
     
 }
 
@@ -76,6 +77,50 @@ body {
     font-size: 16px;
     font-weight: 200;
     color: var(--cinza-claro);
+}
+
+.imagem__group30 {
+    text-align: center;
+}
+
+.group8 {
+    margin: 200px 0 200px;
+}
+
+.group30 {
+    margin-top: 150px;
+}
+
+.lista {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 60px;
+    
+}
+
+.lista__titulo {
+    font-weight: 700;
+    font-size: 24px;
+    color: var(--cinza-escuro);
+    margin: 0 0 10px;
+
+}
+
+.descricao__lista {
+    font-weight: 200;
+    font-size: 16px;
+    color: var(--cinza-claro);
+    
+}
+
+.tamanho__margem {
+    margin-top: 15px;
+}
+
+.botao {
+    margin-top: 30px;
+    text-align: center;
 }
 
 
