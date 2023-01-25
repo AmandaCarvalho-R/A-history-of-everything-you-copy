@@ -123,6 +123,23 @@ body {
     text-align: center;
 }
 
+.rodape {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.rodape__lista {
+    background-image: url(../img/Rectangle.png);
+    text-align: center;
+    margin: 250px 0 5px;
+
+}
+
+.rodape__lista a {
+    font-weight: 200;
+    text-decoration: none;
+    color: var(--cinza-escuro);
+}
 
 
 
