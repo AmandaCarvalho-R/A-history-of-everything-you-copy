@@ -1,7 +1,9 @@
 # A-history-of-everything-you-copy
 
 Landing page criada inspirada em desafios do frond end menthor, utilizando as seguintes linguagens: HTML e CSS.
-Um dos maiores desafios desse projeto foi a utilização de grid e flexbox, projeto escolhido para treinar essas 2 funcionalidades.
+Um dos maiores desafios desse projeto foi a utilização de grid e flexbox, projeto escolhido para treinar essas 2 funcionalidades, pois tentei utilizar em projetos anteriores e me vi com bastante dificuldade na utilização, porém ao concluir este projeto tudo ficou mais claro e consegui executar com bem mais facilidade.
+
+Realizando este projeto tambem aprendi a utilizar a ferramenta FIGMA.
 
 Segue link para visualização do site: tudoquevocecopia.netlify.app
 
